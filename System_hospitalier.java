@@ -35,7 +35,7 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
-		/* cette méthode analyse une requête passée en paramètre 		et retourne "requête analysée" s'il n'y a pas d'erreur
+		/* cette méthode analyse une requête passée en paramètre 			et retourne "requête analysée" s'il n'y a pas d'erreur
 		Elle permet donc de savoir quelle requête a été bien
 		analysée ou non*/
 		return "requête analysée";
